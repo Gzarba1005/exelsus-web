@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-textPrimary antialiased;
+    font-weight: 400;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+  }
+
+  p {
+    font-weight: 400;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary text-white px-6 py-3 rounded-xl font-semibold shadow-sm shadow-primary/20 hover:bg-[#3f4f5a] transition-colors duration-300;
+  }
+  .btn-secondary {
+    @apply bg-surface text-textPrimary border border-border px-6 py-3 rounded-xl font-semibold hover:bg-primary hover:text-white hover:border-transparent transition-all duration-300;
+  }
+  .section-padding {
+    @apply py-20 px-4 md:px-8 lg:px-16;
+  }
+  .section-alt {
+    @apply bg-surface;
+  }
+  .shadow-soft {
+    box-shadow: 0 24px 80px rgba(81, 97, 110, 0.08);
+  }
+  .animate-fade-in {
+    animation: fadeIn 0.9s ease-out both;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

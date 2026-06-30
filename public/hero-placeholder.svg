@@ -1,0 +1,8 @@
+<svg width="700" height="520" viewBox="0 0 700 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="520" rx="32" fill="#F8FAFB" />
+  <rect x="40" y="40" width="620" height="440" rx="28" fill="#E5EDF1" />
+  <circle cx="210" cy="250" r="80" fill="#5C7C8A" opacity="0.15" />
+  <circle cx="470" cy="200" r="32" fill="#5C7C8A" opacity="0.25" />
+  <rect x="120" y="330" width="460" height="20" rx="10" fill="#B0BBC4" />
+  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" fill="#5C7C8A" font-family="Inter, sans-serif" font-size="32">Imagen placeholder</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="700" height="500" viewBox="0 0 700 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="500" rx="28" fill="#E5EDF1" />
+  <rect x="56" y="56" width="588" height="388" rx="24" fill="#F8FAFB" />
+  <path d="M180 120H520V220H180V120Z" fill="#5C7C8A" opacity="0.16" />
+  <path d="M180 280H520V360H180V280Z" fill="#5C7C8A" opacity="0.16" />
+  <circle cx="350" cy="360" r="16" fill="#5C7C8A" />
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" fill="#5C7C8A" font-family="Inter, sans-serif" font-size="28">Placeholder PAXMAN</text>
+</svg>
