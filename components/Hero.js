@@ -26,7 +26,7 @@ export default function Hero() {
           <div>
             <p className="text-sm uppercase tracking-[0.35em] text-primary mb-4">EXELSUS Oncología Clínica</p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-textPrimary leading-tight mb-6">
-              Atención oncológica con <span className="text-primary">calidez humana</span> y rigor médico.
+              Atención oncológica con <span className="text-primary">calidez humana</span> y rigor científico.
             </h1>
             <p className="text-lg text-secondary mb-8 leading-relaxed">
               Un equipo médico cercano, salas de quimioterapia individuales y un acompañamiento real

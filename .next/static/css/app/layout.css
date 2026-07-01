@@ -1113,12 +1113,12 @@ video {
 .border-white\/20 {
   border-color: rgb(255 255 255 / 0.2);
 }
-.bg-\[\#4f6672\] {
+.bg-\[\#3f4f5a\] {
   --tw-bg-opacity: 1;
-  background-color: rgb(79 102 114 / var(--tw-bg-opacity, 1));
+  background-color: rgb(63 79 90 / var(--tw-bg-opacity, 1));
 }
-.bg-\[\#5c7c8a\]\/95 {
-  background-color: rgb(92 124 138 / 0.95);
+.bg-\[\#51616E\]\/95 {
+  background-color: rgb(81 97 110 / 0.95);
 }
 .bg-accent {
   --tw-bg-opacity: 1;
@@ -1154,13 +1154,6 @@ video {
 }
 .bg-white\/50 {
   background-color: rgb(255 255 255 / 0.5);
-}
-.bg-\[\#51616E\]\/95 {
-  background-color: rgb(81 97 110 / 0.95);
-}
-.bg-\[\#3f4f5a\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(63 79 90 / var(--tw-bg-opacity, 1));
 }
 .object-contain {
   -o-object-fit: contain;
