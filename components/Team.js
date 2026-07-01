@@ -36,7 +36,7 @@ Su práctica se centra en tumores genitourinarios y torácicos, con actividad en
     name: 'Dr. José Bulacio',
     specialty: 'Oncología clínica',
     placeholder: 'JB',
-    photo: '/team-chemi.jpg',
+    photo: '/team-bulacio.jpg',
     bio: `Médico egresado de la Facultad de Medicina de la Universidad Nacional de Tucumán, con especialidad en Oncología Clínica y residencia en el Hospital Zenón J. Santillán.
 
 Se desempeña como oncólogo clínico en Exelsus, Jefe de Residentes de Oncología Clínica en el Hospital Zenón J. Santillán e Instructor de la Cátedra de Oncología Clínica de la UNT. Participa como subinvestigador en protocolos de investigación oncológica y es miembro del Comité Joven de la Asociación Argentina de Oncología Clínica.
@@ -47,7 +47,7 @@ Su perfil integra asistencia médica, docencia universitaria e investigación cl
     name: 'Dr. Joaquín Chemi',
     specialty: 'Cirujano urólogo especializado en oncología',
     placeholder: 'JC',
-    photo: '/team-bulacio.jpg',
+    photo: '/team-chemi.jpg',
     bio: `Formado en el Hospital Churruca Visca (Buenos Aires), con Fellowship en Urooncología y Cirugía Oncológica en el Instituto Alexander Fleming y estancia formativa en la Fundación Puigvert (Barcelona, España).
 
 Su práctica se especializa en tumores genitourinarios, con actividad en investigación clínica y publicaciones en revistas internacionales.`,
