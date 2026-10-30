@@ -1,41 +1,43 @@
-# EXELSUS Oncología Clínica - Landing Page
+# EXELSUS Oncología Clínica — Sitio web institucional
 
-Landing page institucional para EXELSUS Oncología Clínica, construida con Next.js y Tailwind CSS.
+Sitio institucional de **EXELSUS Oncología Clínica** (Tucumán, Argentina), diseñado y desarrollado de punta a punta: estructura, diseño responsive, contenido y despliegue en producción.
 
-## Instalación y Ejecución
+🔗 **En producción:** [exelsus.com.ar](https://www.exelsus.com.ar/)
 
-1. Instala las dependencias:
-   ```bash
-   npm install
-   ```
+## Secciones
 
-2. Ejecuta el servidor de desarrollo:
-   ```bash
-   npm run dev
-   ```
+- **Hero** con galería de imágenes
+- **Nosotros** y **diferenciales** de la clínica
+- **Servicios** oncológicos
+- **Equipo** médico
+- **Acompañamiento al paciente** y tecnología **Paxman** (prevención de la alopecia por quimioterapia)
+- **Contacto** con mapa y botón flotante de **WhatsApp**
 
-3. Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
+## Stack
 
-## Estructura del Proyecto
+| | |
+|---|---|
+| Framework | Next.js 14 (App Router) |
+| UI | React 18, Tailwind CSS |
+| Íconos | Lucide React |
+| Deploy | Vercel |
 
-- `app/`: Páginas y layout de Next.js
-- `components/`: Componentes reutilizables
-- `public/`: Archivos estáticos (logo, imágenes)
+## Estructura
 
-## Personalización
+```
+app/          Layout, página principal y estilos globales
+components/   Secciones del sitio (Hero, Services, Team, Contact, ...)
+public/       Logos e imágenes
+```
 
-- **Logo**: Reemplaza `/public/logo.png` con el logo real.
-- **Imágenes**: Actualiza los placeholders en los componentes con URLs de imágenes reales.
-- **Contenido**: Edita los textos en los componentes según sea necesario.
-- **Colores**: Modifica `tailwind.config.js` si necesitas ajustes en la paleta.
-- **Mapa**: Actualiza la URL del iframe en `Contact.js` con coordenadas exactas.
+## Correr localmente
 
-## Tecnologías
+```bash
+npm install
+npm run dev     # http://localhost:3000
+npm run build   # build de producción
+```
 
-- Next.js 14
-- Tailwind CSS
-- React Icons (Lucide)
+## Autor
 
-## SEO y Accesibilidad
-
-La página incluye meta tags básicos, estructura semántica y navegación accesible.
+Desarrollado por Gonzalo Zarbá ([@Gzarba1005](https://github.com/Gzarba1005)).
