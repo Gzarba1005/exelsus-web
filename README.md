@@ -40,4 +40,4 @@ npm run build   # build de producción
 
 ## Autor
 
-Desarrollado por Gonzalo Zarbá ([@Gzarba1005](https://github.com/Gzarba1005)).
+Desarrollado por Gonzalo Zarbá ([@GonchiZarba](https://github.com/GonchiZarba)).
